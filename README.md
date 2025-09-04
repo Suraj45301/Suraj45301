@@ -89,12 +89,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suraj45301/Suraj45301/output/snake.svg" alt="snake eating commits"/>
-</p>
-
----
-
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
