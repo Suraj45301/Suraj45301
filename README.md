@@ -39,7 +39,7 @@
 ## 🏫 Education
 
 **Ajay Kumar Garg Engineering College (AKGEC)** – Ghaziabad  
-📚 B.Tech in Electronics & Communication Engineering (2022 - Present)  
+📚 B.Tech in Computer Science and Engineering (2022 - Present)  
 📊 SGPA: 7.84  
 
 ---
