@@ -15,7 +15,7 @@
 
 🔹 **Name:** Suraj Yadav  
 🔹 **Education:** B.Tech in Computer Science and Engineering @ AKGEC, Ghaziabad  
-🔹 **SGPA:** 7.84  
+🔹 **SGPA:** 8.01  
 🔹 **Location:** India 🇮🇳  
 🔹 **Interests:** Full Stack Development, MERN, DSA, System Design  
 🔹 **Current Focus:** MERN Stack Development & Problem Solving  
